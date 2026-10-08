@@ -1,2 +1,5 @@
-Version 2 of the application.q
+Version 2 of the application.
+
 Profile feature added.
+
+This line was changed from the feature branch.
